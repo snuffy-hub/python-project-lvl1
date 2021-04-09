@@ -15,6 +15,3 @@ package-install:
 
 lint:
 	poetry run flake8 brain_games
-
-wlint:
-	poetry run wemake-python-styleguide brain_games
